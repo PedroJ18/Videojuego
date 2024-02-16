@@ -7,6 +7,6 @@ ENTORNOS:
 - Old Sea Port - Environment: https://assetstore.unity.com/packages/3d/environments/old-sea-port-environment-36897
 - 3D Free Modular Kit: https://assetstore.unity.com/packages/3d/environments/3d-free-modular-kit-85732
 
-ENEMIGOS:
-- Monster scavenger: https://assetstore.unity.com/packages/3d/characters/monster-scavenger-191323
-- Monster Orc: https://assetstore.unity.com/packages/3d/characters/humanoids/monster-orc-146616
+ENEMIES: Mixamo
+CHARACTER: Mixamo
+NPC: Mixamo
